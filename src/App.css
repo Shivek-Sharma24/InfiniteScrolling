@@ -1,0 +1,29 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 ;
+  padding: 0;
+  text-align: center;  
+}
+.card{
+  width: 18rem;
+  max-height: 20rem;
+}
+.card img{
+  overflow: hidden;
+  object-fit: contain;
+  
+  
+}
+.parent-card{
+  /* border: 2px solid white; */
+  width: 100%;
+  display: grid;
+  padding: 2px;
+  gap: 15px;
+  /* justify-content: center; */
+  place-items: center;
+  place-content: center;
+  grid-template-columns: repeat(auto-fit , minmax(300px , 1fr));
+}
+
+
