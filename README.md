@@ -10,6 +10,9 @@ This project is a React-based application demonstrating infinite scroll function
 
 ♻️ Reusable and modular components.
 
+🖥️ Demo
+Live Demo :-https://infinite-scrolling-sand-six.vercel.app
+
 📦 Tech Stack
 React (with hooks)
 
